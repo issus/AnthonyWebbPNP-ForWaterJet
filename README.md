@@ -15,13 +15,12 @@ All the mounting plates have changed to remove the need for counterbores which t
 
 Everything has been converted to 1/4" plate, the original design was machined from plastic and therefore had thicker sections.
 
-This design will use Peter Betz's head which will also be waterjet cut. He is in the process of modifying his head design to be easier to waterjet cut.
+This design will use Peter Betz's head which will also be waterjet cut. He is in the process of modifying his head design to be easier to waterjet manufacture, and add features for this machine.
 
 
 # Todo
-* Y axis motor and idler plates
-* Y axis driven plate
-* Add belt attachment/tensioning to the X axis plates
+* Add limit switches
+* Add drag chain supports
 * Add Peter's head design
 * Source 5mm T slot nuts
 * Put together bill of materials
