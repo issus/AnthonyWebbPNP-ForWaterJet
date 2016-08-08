@@ -48,3 +48,8 @@ Temporary Items
 
 # Solidworks Temporary files
 ~$*.SLD*
+Head/A360Model/*.sldprt
+Head/A360Model/*.step
+Head/A360Model/*.sldasm
+Head/A360Model/*.stp
+Head/A360Model/*.rpt
